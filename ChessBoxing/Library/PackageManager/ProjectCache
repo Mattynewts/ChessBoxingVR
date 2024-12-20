@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638702606434002678
-    m_Hash: 431092784
+      ticks: 638702611674989177
+    m_Hash: 755476958
   m_LockFileStatus:
     m_FilePath: C:/Users/ander/Documents/chessBoxing/ChessBoxingVR/ChessBoxing/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638702606434072734
-    m_Hash: 2250810144
+      ticks: 638702611674996128
+    m_Hash: 2527976166
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
