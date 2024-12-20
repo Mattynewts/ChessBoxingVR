@@ -1,0 +1,27 @@
+{
+    "name": "Normal.Realtime.Profiler",
+    "rootNamespace": "",
+    "references": [
+        "GUID:b46779583a009f04ba9f5f31d0e7e6ac",
+        "GUID:6001d3f171e441b4ba45e0787d613fd1"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [
+        "ENABLE_PROFILER",
+        "ENABLE_PROFILER_CORE",
+        "UNITY_2020_1_OR_NEWER"
+    ],
+    "versionDefines": [
+        {
+            "name": "com.unity.profiling.core",
+            "expression": "1.0.0",
+            "define": "ENABLE_PROFILER_CORE"
+        }
+    ],
+    "noEngineReferences": false
+}
